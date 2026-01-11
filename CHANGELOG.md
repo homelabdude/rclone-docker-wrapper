@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/homelabdude/rclone-docker-wrapper/compare/v1.2.0...v1.2.1) (2026-01-11)
+
+
+### Bug Fixes
+
+* Update repository URL in package.json to correct repo URL ([a9b8e8d](https://github.com/homelabdude/rclone-docker-wrapper/commit/a9b8e8db8cf839c5e780d1021562b951e318ca23))
+
 # [1.2.0](https://github.com/ash0ne/rclone-docker-wrapper/compare/v1.1.0...v1.2.0) (2024-09-09)
 
 
