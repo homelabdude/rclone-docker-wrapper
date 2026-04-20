@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/homelabdude/rclone-docker-wrapper/compare/v1.2.1...v1.3.0) (2026-04-20)
+
+
+### Features
+
+* upgrade rclone version ([bb9dbb8](https://github.com/homelabdude/rclone-docker-wrapper/commit/bb9dbb817d451640620b3cb349cd795e9482ccb4)), closes [#11](https://github.com/homelabdude/rclone-docker-wrapper/issues/11)
+
 ## [1.2.1](https://github.com/homelabdude/rclone-docker-wrapper/compare/v1.2.0...v1.2.1) (2026-01-11)
 
 
