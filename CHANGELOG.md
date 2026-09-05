@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/homelabdude/rclone-docker-wrapper/compare/v1.4.0...v1.5.0) (2026-09-05)
+
+
+### Features
+
+* bump docker/login-action from 4.5.2 to 4.6.0 ([#15](https://github.com/homelabdude/rclone-docker-wrapper/issues/15)) ([0affc74](https://github.com/homelabdude/rclone-docker-wrapper/commit/0affc74c2b73ad4025e54d494d46830b64de3e0a))
+
 # [1.4.0](https://github.com/homelabdude/rclone-docker-wrapper/compare/v1.3.0...v1.4.0) (2026-08-22)
 
 
